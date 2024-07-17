@@ -3,15 +3,101 @@ owner: jonesyriffic # Your GitHub organization or username, where this repositor
 repo: gsp-smx # The name of this repository
 
 sites:
+  - name: AO - Angola
+    url: https://www.showmax.com/ao/help
+  - name: BJ - Benin
+    url: https://www.showmax.com/bj/help
+  - name: BW - Botswana
+    url: https://www.showmax.com/bw/help
+  - name: BF - Burkina Faso
+    url: https://www.showmax.com/bf/help
+  - name: CV - Cabo Verde
+    url: https://www.showmax.com/cv/help
+  - name: CM - Cameroon
+    url: https://www.showmax.com/cm/help
+  - name: CF - Central African Republic
+    url: https://www.showmax.com/cf/help
+  - name: TD - Chad
+    url: https://www.showmax.com/td/help
+  - name: KM - Comoros
+    url: https://www.showmax.com/km/help
+  - name: CG - Congo
+    url: https://www.showmax.com/cg/help
+  - name: CI - Côte d'Ivoire
+    url: https://www.showmax.com/ci/help
+  - name: CD - Democratic Republic of the Congo
+    url: https://www.showmax.com/cd/help
+  - name: DJ - Djibouti
+    url: https://www.showmax.com/dj/help
+  - name: GQ - Equatorial Guinea
+    url: https://www.showmax.com/gq/help
+  - name: ER - Eritrea
+    url: https://www.showmax.com/er/help
+  - name: SZ - Eswatini
+    url: https://www.showmax.com/sz/help
+  - name: ET - Ethiopia
+    url: https://www.showmax.com/et/help
+  - name: GA - Gabon
+    url: https://www.showmax.com/ga/help
+  - name: GM - Gambia
+    url: https://www.showmax.com/gm/help
+  - name: GH - Ghana
+    url: https://www.showmax.com/gh/help
+  - name: GN - Guinea
+    url: https://www.showmax.com/gn/help
+  - name: GW - Guinea Bissau
+    url: https://www.showmax.com/gw/help
+  - name: KE - Kenya
+    url: https://www.showmax.com/ke/help
+  - name: LS - Lesotho
+    url: https://www.showmax.com/ls/help
+  - name: MG - Madagascar
+    url: https://www.showmax.com/mg/help
+  - name: MW - Malawi
+    url: https://www.showmax.com/mw/help
+  - name: ML - Mali
+    url: https://www.showmax.com/ml/help
+  - name: MR - Mauritania
+    url: https://www.showmax.com/mr/help
+  - name: MU - Mauritius
+    url: https://www.showmax.com/mu/help
+  - name: MZ - Mozambique
+    url: https://www.showmax.com/mz/help
+  - name: NA - Namibia
+    url: https://www.showmax.com/na/help
+  - name: NE - Niger
+    url: https://www.showmax.com/ne/help
+  - name: NG - Nigeria
+    url: https://www.showmax.com/ng/help
+  - name: RW - Rwanda
+    url: https://www.showmax.com/rw/help
+  - name: ST - Sao Tome & Principe
+    url: https://www.showmax.com/st/help
+  - name: SN - Senegal
+    url: https://www.showmax.com/sn/help
+  - name: SC - Seychelles
+    url: https://www.showmax.com/sc/help
+  - name: SL - Sierra Leone
+    url: https://www.showmax.com/sl/help
   - name: ZA - South Africa
     url: https://www.showmax.com/za/help
+  - name: TZ - Tanzania
+    url: https://www.showmax.com/tz/help
+  - name: TG - Togo
+    url: https://www.showmax.com/tg/help
+  - name: UG - Uganda
+    url: https://www.showmax.com/ug/help
+  - name: ZM - Zambia
+    url: https://www.showmax.com/zm/help
+  - name: ZW - Zimbabwe
+    url: https://www.showmax.com/zw/help
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /gsp-smx
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: GSP Customer Management Uptime
+  name: GSP Help Uptime
   introTitle: Showmax Uptime
   navbar:
     - title: Home
