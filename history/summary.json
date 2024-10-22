@@ -670,18 +670,20 @@
     "url": "https://www.showmax.com/sl/help",
     "icon": "https://icons.duckduckgo.com/ip3/www.showmax.com.ico",
     "slug": "sl-sierra-leone",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 988,
-    "timeDay": 101,
-    "timeWeek": 651,
-    "timeMonth": 1025,
+    "timeDay": 527,
+    "timeWeek": 689,
+    "timeMonth": 1023,
     "timeYear": 988,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "ZA - South Africa",
@@ -760,35 +762,39 @@
     "url": "https://www.showmax.com/zm/help",
     "icon": "https://icons.duckduckgo.com/ip3/www.showmax.com.ico",
     "slug": "zm-zambia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 954,
-    "timeDay": 91,
-    "timeWeek": 787,
-    "timeMonth": 1058,
-    "timeYear": 954,
-    "dailyMinutesDown": {}
+    "time": 957,
+    "timeDay": 717,
+    "timeWeek": 857,
+    "timeMonth": 1067,
+    "timeYear": 957,
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "ZW - Zimbabwe",
     "url": "https://www.showmax.com/zw/help",
     "icon": "https://icons.duckduckgo.com/ip3/www.showmax.com.ico",
     "slug": "zw-zimbabwe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1057,
-    "timeDay": 100,
-    "timeWeek": 1119,
-    "timeMonth": 1277,
-    "timeYear": 1057,
-    "dailyMinutesDown": {}
+    "time": 1058,
+    "timeDay": 620,
+    "timeWeek": 1121,
+    "timeMonth": 1272,
+    "timeYear": 1058,
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   }
 ]
