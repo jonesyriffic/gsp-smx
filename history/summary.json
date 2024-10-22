@@ -670,19 +670,19 @@
     "url": "https://www.showmax.com/sl/help",
     "icon": "https://icons.duckduckgo.com/ip3/www.showmax.com.ico",
     "slug": "sl-sierra-leone",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 988,
-    "timeDay": 527,
-    "timeWeek": 689,
-    "timeMonth": 1023,
-    "timeYear": 988,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 991,
+    "timeDay": 768,
+    "timeWeek": 751,
+    "timeMonth": 1030,
+    "timeYear": 991,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 9
     }
   },
   {
@@ -762,19 +762,19 @@
     "url": "https://www.showmax.com/zm/help",
     "icon": "https://icons.duckduckgo.com/ip3/www.showmax.com.ico",
     "slug": "zm-zambia",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 957,
-    "timeDay": 717,
-    "timeWeek": 857,
-    "timeMonth": 1067,
-    "timeYear": 957,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 960,
+    "timeDay": 866,
+    "timeWeek": 891,
+    "timeMonth": 1070,
+    "timeYear": 960,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 9
     }
   },
   {
@@ -782,19 +782,19 @@
     "url": "https://www.showmax.com/zw/help",
     "icon": "https://icons.duckduckgo.com/ip3/www.showmax.com.ico",
     "slug": "zw-zimbabwe",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1058,
-    "timeDay": 620,
-    "timeWeek": 1121,
-    "timeMonth": 1272,
-    "timeYear": 1058,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1078,
+    "timeDay": 1453,
+    "timeWeek": 1343,
+    "timeMonth": 1330,
+    "timeYear": 1078,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 9
     }
   }
 ]
