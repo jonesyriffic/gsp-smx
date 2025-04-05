@@ -202,10 +202,10 @@
     "url": "https://www.showmax.com/cd/help",
     "icon": "https://icons.duckduckgo.com/ip3/www.showmax.com.ico",
     "slug": "cd-democratic-republic-of-the-congo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 751,
@@ -213,7 +213,9 @@
     "timeWeek": 961,
     "timeMonth": 1070,
     "timeYear": 751,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-05": 1
+    }
   },
   {
     "name": "DJ - Djibouti",
