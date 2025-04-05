@@ -202,19 +202,19 @@
     "url": "https://www.showmax.com/cd/help",
     "icon": "https://icons.duckduckgo.com/ip3/www.showmax.com.ico",
     "slug": "cd-democratic-republic-of-the-congo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 751,
-    "timeDay": 178,
-    "timeWeek": 961,
-    "timeMonth": 1070,
-    "timeYear": 751,
+    "time": 749,
+    "timeDay": 289,
+    "timeWeek": 891,
+    "timeMonth": 1049,
+    "timeYear": 749,
     "dailyMinutesDown": {
-      "2025-04-05": 1
+      "2025-04-05": 10
     }
   },
   {
