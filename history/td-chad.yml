@@ -1,7 +1,7 @@
 url: https://www.showmax.com/td/help
-status: up
-code: 200
-responseTime: 98
-lastUpdated: 2025-05-18T23:02:52.899Z
+status: down
+code: 503
+responseTime: 13562
+lastUpdated: 2025-05-19T13:17:51.865Z
 startTime: 2024-07-17T09:49:24.425Z
 generator: Upptime <https://github.com/upptime/upptime>
