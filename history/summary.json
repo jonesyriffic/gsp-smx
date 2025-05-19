@@ -130,18 +130,20 @@
     "url": "https://www.showmax.com/td/help",
     "icon": "https://icons.duckduckgo.com/ip3/www.showmax.com.ico",
     "slug": "td-chad",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 818,
-    "timeDay": 98,
-    "timeWeek": 213,
-    "timeMonth": 647,
-    "timeYear": 818,
-    "dailyMinutesDown": {}
+    "time": 859,
+    "timeDay": 6830,
+    "timeWeek": 1882,
+    "timeMonth": 1064,
+    "timeYear": 859,
+    "dailyMinutesDown": {
+      "2025-05-19": 2
+    }
   },
   {
     "name": "KM - Comoros",
