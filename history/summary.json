@@ -130,19 +130,19 @@
     "url": "https://www.showmax.com/td/help",
     "icon": "https://icons.duckduckgo.com/ip3/www.showmax.com.ico",
     "slug": "td-chad",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 859,
-    "timeDay": 6830,
-    "timeWeek": 1882,
-    "timeMonth": 1064,
-    "timeYear": 859,
+    "time": 861,
+    "timeDay": 5080,
+    "timeWeek": 1849,
+    "timeMonth": 1080,
+    "timeYear": 861,
     "dailyMinutesDown": {
-      "2025-05-19": 2
+      "2025-05-19": 18
     }
   },
   {
