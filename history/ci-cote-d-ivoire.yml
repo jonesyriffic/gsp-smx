@@ -1,7 +1,7 @@
 url: https://www.showmax.com/ci/help
-status: down
-code: 503
-responseTime: 6782
-lastUpdated: 2025-06-23T11:37:29.220Z
+status: up
+code: 200
+responseTime: 2240
+lastUpdated: 2025-06-23T11:45:59.903Z
 startTime: 2024-07-17T09:49:37.112Z
 generator: Upptime <https://github.com/upptime/upptime>
