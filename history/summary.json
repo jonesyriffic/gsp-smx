@@ -186,18 +186,20 @@
     "url": "https://www.showmax.com/ci/help",
     "icon": "https://icons.duckduckgo.com/ip3/www.showmax.com.ico",
     "slug": "ci-cote-d-ivoire",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 771,
-    "timeDay": 1412,
-    "timeWeek": 859,
-    "timeMonth": 674,
-    "timeYear": 771,
-    "dailyMinutesDown": {}
+    "time": 788,
+    "timeDay": 4097,
+    "timeWeek": 1599,
+    "timeMonth": 865,
+    "timeYear": 788,
+    "dailyMinutesDown": {
+      "2025-06-23": 1
+    }
   },
   {
     "name": "CD - Democratic Republic of the Congo",
