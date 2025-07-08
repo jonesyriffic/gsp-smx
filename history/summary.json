@@ -58,18 +58,20 @@
     "url": "https://www.showmax.com/bf/help",
     "icon": "https://icons.duckduckgo.com/ip3/www.showmax.com.ico",
     "slug": "bf-burkina-faso",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 796,
-    "timeDay": 1466,
-    "timeWeek": 978,
-    "timeMonth": 613,
-    "timeYear": 796,
-    "dailyMinutesDown": {}
+    "time": 804,
+    "timeDay": 2585,
+    "timeWeek": 1319,
+    "timeMonth": 713,
+    "timeYear": 804,
+    "dailyMinutesDown": {
+      "2025-07-08": 1
+    }
   },
   {
     "name": "CV - Cabo Verde",
