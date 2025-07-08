@@ -58,19 +58,19 @@
     "url": "https://www.showmax.com/bf/help",
     "icon": "https://icons.duckduckgo.com/ip3/www.showmax.com.ico",
     "slug": "bf-burkina-faso",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 804,
-    "timeDay": 2585,
-    "timeWeek": 1319,
-    "timeMonth": 713,
-    "timeYear": 804,
+    "time": 807,
+    "timeDay": 2316,
+    "timeWeek": 1370,
+    "timeMonth": 746,
+    "timeYear": 807,
     "dailyMinutesDown": {
-      "2025-07-08": 1
+      "2025-07-08": 20
     }
   },
   {
